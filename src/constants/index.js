@@ -9,10 +9,31 @@ Beyond coding, I love diving into tech trends, exploring creative solutions, and
 
 export const EXPERIENCES = [
   {
-    year: "2023 - Present",
+    year: "Apr 2026 - Present",
+    role: "Software Engineer - entry",
+    company: "Maiora IT Services and Consulting Pvt. Ltd.",
+    description: `Promoted to Software Engineer, taking on increased technical ownership in backend engineering and full-stack observability. Working as a Backend Tech Lead, driving observability solutions on Azure Kubernetes Service (AKS). Actively involved in architectural decisions, implementation planning, technology evaluation, and solution validation. Also developing Python-based agents to support automation and system integrations.`,
+    technologies: ["AKS", "Helm", "Full-stack observability", "Kubernetes", "Docker", "kafka-tools", "Vector", "ClickHouse", "Problem Solving"],
+  },
+  {
+    year: "Sep 2025 - Mar 2026",
+    role: "Associate Software Engineer",
+    company: "Maiora IT Services and Consulting Pvt. Ltd.",
+    description: `Contributed to distributed observability and monitoring solutions, focusing on log aggregation, data ingestion, and monitoring pipelines. Worked on integrating and troubleshooting observability components, supporting infrastructure monitoring, improving system visibility, and ensuring reliable data flow across distributed environments.`,
+    technologies: ["Kubernetes", "Docker", "kafka-tools", "Vector", "ClickHouse", "Prometheus", "Alert manager"],
+  },
+  {
+    year: "Feb 2025 - Aug 2025",
+    role: "Product Intern",
+    company: "Maiora IT Services and Consulting Pvt. Ltd.",
+    description: `Completed an on-site internship in Product Development & Integration. Worked with industrial connectivity and geospatial tools, including OPC UA, MQTT, CoAP, and Quantum GIS.`,
+    technologies: ["OPC Unified Architecture (OPC UA)", "Message Queuing Telemetry Transport", "CoAP", "Quantum GIS"],
+  },
+  {
+    year: "2023 - 2024",
     role: "Intern",
     company: "Rooman Technologies",
-    description: `Rooman Technologies is a software training company, and I am currently gaining valuable experience as an intern. My responsibilities include: Learning and applying software development practices in real-world scenarios. Collaborating on small projects to enhance my understanding of full-stack development. Strengthening my programming and problem-solving skills with a focus on Java and web technologies`,
+    description: `Rooman Technologies is a software training company, where I interned through 2024. My responsibilities included learning and applying software development practices in real-world scenarios, collaborating on small projects to build my understanding of full-stack development, and strengthening my programming and problem-solving skills with a focus on Java and web technologies.`,
     technologies: ["Kubernetes", "Docker", "React", "mongoDB"],
   },
   {
@@ -49,7 +70,7 @@ export const PROJECTS = [
 ];
 
 export const CONTACT = {
-  address: "K.V.G.College of Engineering Boys Hostel , Sullia, Dakshina-Kannada, 574321.",
+  address: "Maiora IT Services and Consulting, Katriguppe, Banashankari, Bengaluru, Karnataka - 560085.",
   phoneNo: "+91 7795966562 ",
   email: "ajaykumarak1761@gmail.com",
 };
